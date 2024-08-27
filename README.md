@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shumaqueahmad&show_icons=true&theme=dark&locale=en" alt="shumaqueahmad" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shumaqueahmad&" alt="shumaqueahmad" /></p>
 
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/shumaqueahmad?ext=heatmap)
+
